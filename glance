@@ -1,0 +1,1 @@
+glance image-create --name Windows-2016-ENT-EN-public --disk-format raw --container-format bare --file /images/vdisk.ws2016img.raw --visibility public --progress

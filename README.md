@@ -1,1 +1,1 @@
-# openstack-mitaka
+# openstack
